@@ -1,0 +1,8 @@
+artifacts_root: artifacts  # creating a artifacts or Output folder where it contains all the modules created 
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/winequality-data.zip  # you can use your own repo link
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
