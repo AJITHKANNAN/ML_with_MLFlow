@@ -38,7 +38,7 @@ list_of_files = [
 
 
 for filepath in list_of_files:
-    filepath = Path(filepath)
+    filepath = Path(filepath) # used to convert to windows path
     filedir, filename = os.path.split(filepath)
 
 
