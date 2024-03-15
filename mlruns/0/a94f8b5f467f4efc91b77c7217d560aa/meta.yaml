@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Scientist/ML_with_MLFlow/mlruns/0/a94f8b5f467f4efc91b77c7217d560aa/artifacts
+end_time: 1710525150636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a94f8b5f467f4efc91b77c7217d560aa
+run_name: respected-smelt-377
+run_uuid: a94f8b5f467f4efc91b77c7217d560aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710525146119
+status: 3
+tags: []
+user_id: HP
